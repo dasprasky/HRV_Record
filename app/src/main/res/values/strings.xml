@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MX01</string>
+    <string name="button_name">SEARCH FOR DEVICES</string>
+    <string name="ok_icon">image test icon</string>
+    <string name="address">Address</string>
+    <string name="age_text">Age</string>
+    <string name="hr_text">Heart Rate</string>
+    <string name="temp_text">Temperature</string>
+    <string name="rr_text">Respiration Rate</string>
+    <string name="stress_text">Stress Level</string>
+    <string name="fatigue_text">Fatigue</string>
+    <string name="lf_hf_text">LF/HF</string>
+    <string name="default_value">-</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="reset">Reset</string>
+    <string name="celsius">° C</string>
+    <string name="fahrenheit">° F</string>
+    <string name="show_unnamed_devices">Show Unnamed Devices</string>
+    <string name="info">CONNECT A DEVICE</string>
+    <string name="info_ble_ops">Please wait while stress level is loaded</string>
+    <string name="status_info_text">Please wait for HRV data to be prepared.</string>
+</resources>
